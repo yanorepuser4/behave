@@ -26,7 +26,7 @@ modernize >= 0.5
 coverage >= 5.0
 pytest-cov
 tox   >= 1.8.1,<4.0     # -- HINT: tox >= 4.0 has breaking changes.
-virtualenv < 20.22.0    # -- SUPPORT FOR: Python 2.7, Python <= 3.6
+virtualenv <20.26.3    # -- SUPPORT FOR: Python 2.7, Python <= 3.6
 
 # -- REQUIRED FOR: docs
 -r docs.txt
